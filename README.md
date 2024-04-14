@@ -20,3 +20,13 @@ manufacturing company.
 fields using DAX, and visualizing data through reports.
 
 ![Exec Dashboard](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/4b85a572-3bd7-4d17-8678-3d028dac6689)
+
+![Product ](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/218ea1a9-28b8-424d-bd89-33ee814e3b54)
+
+![Map](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/38711df9-7dd5-44e1-a0a2-476f1f174364)
+
+![Customer](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/cae082c2-2154-4c72-a2ef-4eed5c60b36b)
+
+![Decomposition Tree](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/e48307e5-cede-47ac-ad33-f75075ea8c37)
+
+![Key Influencers](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/7301d4a4-f28e-444a-a2f3-75d2674f57d5)

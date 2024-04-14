@@ -1,4 +1,5 @@
 #Deutsch
+
 Power-BI-Analyse für ein Produktionsunternehmen
 
 • Durchführung eines Power BI-Projekts unter Verwendung eines Datensatzes eines Fahrradherstellers.
@@ -9,6 +10,7 @@ hochwertiger Kunden.
 das Hinzufügen von berechneten Feldern mit DAX und die Visualisierung von Daten mit Berichten.
 
 #Englisch
+
 Visualization Analysis for a Manufacturing Company
 • Execution of a Power BI project utilizing a dataset from a cycle
 manufacturing company.
@@ -16,3 +18,5 @@ manufacturing company.
 (KPIs), assessing regional performance, analyzing product-level trends, and identifying high-value customers.
 • The project encompassed stages such as connecting and shaping data, creating a relational data model, adding calculated
 fields using DAX, and visualizing data through reports.
+
+![Exec Dashboard](https://github.com/gatesujit/Power-BI-Projekte/assets/166835825/4b85a572-3bd7-4d17-8678-3d028dac6689)
